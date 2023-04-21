@@ -475,3 +475,9 @@
 .mbrib-zoom-out:before {
   content: "\e995";
 }
+.tvtimeicon {
+  background-image: url('assets/images/tvtimeicon.png');
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+}
