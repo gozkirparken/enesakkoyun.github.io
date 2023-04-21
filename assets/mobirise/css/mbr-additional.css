@@ -741,3 +741,9 @@ a {
 .cid-sFF3CYc3p7 .media-container-row .mbr-text {
   text-align: center;
 }
+.tvtimeicon {
+  background-image: url('assets/images/tvtimeicon.png');
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+}
